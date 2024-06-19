@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "leif.h": "c"
+  },
+  "cmake.ignoreCMakeListsMissing": true,
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc-11"
+}
